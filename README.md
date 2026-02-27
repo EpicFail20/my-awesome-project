@@ -1,2 +1,3 @@
 # my-awesome-project
 quete 3
+his awesome project is created to experiment git notions like clone, push and pull
